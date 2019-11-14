@@ -20,7 +20,7 @@ Usage:
     - **x_train**, **x_test**: uint8 array of RGB image data with shape (num_samples, 3, 32, 32) or (num_samples, 32, 32, 3) based on the `image_data_format` backend setting of either `channels_first` or `channels_last` respectively.
     - **y_train**, **y_test**: uint8 array of category labels (integers in range 0-9) with shape (num_samples, 1).
 
-![cifar10](cifar10.png)
+<img src="cifar10.png" alt="cifar10">
 
 ***
 
@@ -40,7 +40,7 @@ Usage:
 - Arguments:
   - **label_mode**: "fine" or "coarse".
 
-![cifar100](cifar100.png)
+<img src="cifar100.png" alt="cifar100">
 
 ***
 
@@ -60,7 +60,7 @@ Usage:
 - Arguments:
   - **path**: if you do not have the index file locally (at `'~/.keras/datasets/' + path`), it will be downloaded to this location.
 
-![mnist](mnist.png)
+<img src="mnist.png" alt="mnist">
 
 ***
 
@@ -93,7 +93,7 @@ Usage:
     - **x_train**, **x_test**: uint8 array of grayscale image data with shape (num_samples, 28, 28).
     - **y_train**, **y_test**: uint8 array of labels (integers in range 0-9) with shape (num_samples,).
 
-![fashion_mnist](fashion_mnist.png)
+<img src="fashion_mnist.png" alt="fashion_mnist">
 
 ***
 
