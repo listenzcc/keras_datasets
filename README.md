@@ -1,14 +1,13 @@
-# This repository is an instruction of Keras datasets
+# This repository is a personal backup of datasets used by Keras
 
-Downloading the keras datasets is too hard inside the wall, it is the sole purpose of doing this.
+Downloading the keras datasets is too hard inside the wall, so making a downloadable backup is the sole purpose of building this repository.
 
-Full documents can be found at https://keras.io/datasets/
+Full documents of the datasets can be found at https://keras.io/datasets/
 
-Dataset can be accessed from https://pan.baidu.com/s/1Btq5_RsCCItsviWV-UzVjg  
+Datasets backup can be accessed from https://pan.baidu.com/s/1Btq5_RsCCItsviWV-UzVjg  
 Access code is: `txub`
 
-`Please contact me if there are any Intelligent Property Issue concerns raised by this respository.`
-`And I will close this repository immediately.`
+`Please let me know if there are any Intelligent Property concerns raised by this respository.`
 
 ***
 
