@@ -2,7 +2,13 @@
 
 Downloading the keras datasets is too hard inside the wall, it is the sole purpose of doing this.
 
-Full documents can be found at [Keras Documentation - Datasets](https://keras.io/datasets/)
+Full documents can be found at https://keras.io/datasets/
+
+Dataset can be accessed from https://pan.baidu.com/s/1Btq5_RsCCItsviWV-UzVjg  
+Access code is: `txub`
+
+`Please contact me if there are any Intelligent Property Issue concerns raised by this respository.`
+`And I will close this repository immediately.`
 
 ***
 
